@@ -1,0 +1,3 @@
+[submodule "projects/prism"]
+	path = projects/prism
+	url = git@github.com:ssanvi-builds/prism.git
